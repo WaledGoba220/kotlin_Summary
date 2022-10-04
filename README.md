@@ -4,3 +4,7 @@
 ### 1- 	Atomic Kotlin  ==> https://www.atomickotlin.com/atomickotlin/
 ### 2- 	Head First Kotlin ==> https://www.pdfdrive.com/head-first-kotlin-e196919920.html
 ### 3- 	Kotlin Apprentice ==> https://www.raywenderlich.com/books/kotlin-apprentice/v3.0
+
+### Problem Solving 
+1- LeetCode ==> https://interview.leetcode.com/
+2- HackerRank ==> https://www.hackerrank.com/

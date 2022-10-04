@@ -16,3 +16,27 @@
 # Content Summary 
 ### 1- Setup
 ### 2- Initial Program
+### 3- Program Concept
+### 4- Variables
+### 5- Data Type
+### 6- Type Conversion
+### 7- Kotlin Comment
+### 8- Input / Output
+### 9- Operators
+### 10- Arithmetic operator
+### 11- Logical operator
+### 12- Assignment  operator
+### 13- Relation operator
+### 14- if Expression
+### 15- when Expression
+### 16- For Loop
+### 17- while Loop
+### 18- do - while Loop
+
+
+
+
+
+
+
+

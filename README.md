@@ -32,9 +32,19 @@
 ### 16- For Loop
 ### 17- while Loop
 ### 18- do - while Loop
-
-
-
+### 19- Array 
+### 20- Data Collection(List , Set , Map)
+### 21- Exception Handling(try/catch , Throw Exception, try/catch/finally)
+### 22- Functions(default, parameter, recursion)
+### 23- Null Safety(Nullable/Non Nullable types , unsafe/safe cast , Elvis Oerator)
+### 24- OOP(Class and Object) 
+### 25- Kotlin Constructor
+### 26- Kotlin Inheritance
+### 27- Kotlin Abstract class
+### 28- Kotlin Interface
+### 29- Kotlin Extension Function
+### 30- Kotlin Data class
+### 31- Kotlin Sealed Class
 
 
 
